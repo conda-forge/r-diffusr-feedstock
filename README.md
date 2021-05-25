@@ -3,7 +3,7 @@ About r-diffusr
 
 Home: https://github.com/dirmeier/diffusr
 
-Package license: GPL (>= 3)
+Package license: GPL-3.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-diffusr-feedstock/blob/master/LICENSE.txt)
 
