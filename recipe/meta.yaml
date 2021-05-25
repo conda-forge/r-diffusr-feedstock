@@ -49,7 +49,7 @@ test:
 
 about:
   home: https://github.com/dirmeier/diffusr
-  license: GPL (>= 3)
+  license: GPL-3.0-or-later
   summary: Implementation of network diffusion algorithms such as heat diffusion or Markov random
     walks. Network diffusion algorithms generally spread information in the form of
     node weights along the edges of a graph to other nodes. These weights can for example
